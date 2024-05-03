@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LANEING-AVIATION
 - 👀 I’m interested in making aircraft models.
-- 🌱 I’m currently learning engineering in the Chongqing University.
-- 💞️ I’m looking to collaborate on the VBA macros, ROS, Three.js WEBGL, MATLAB and so on.
+- 🌱 I’m currently learning engineering in Chongqing University.
+- 💞️ I’m looking to collaborate on the Three.js WEBGL, MATLAB, VBA macros, ROS and so on.
 - 📫 How to reach me LANEINGAVIATION@OUTLOOK.COM
 - ⚡ Fun fact: My favorite musician is Yanni.
 
