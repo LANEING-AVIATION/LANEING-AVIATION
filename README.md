@@ -1,6 +1,8 @@
-# 👋 Hi, I’m Henry.
+# 👋 Hi, I’m Henry (LANEINGAVIATION@outlook.com).
 
 <p align="left">Engineering Mechanics Bachelor of Engineering Candidate at <b>Chongqing University</b>.</p>
+
+![Introduction](https://github.com/LANEING-AVIATION/LANEING-AVIATION/blob/main/M0.png)
 
 <hr>
 
@@ -24,6 +26,8 @@
 
 ### 📐 Computer-Aided Engineering (CAX)
 
+![Introduction](https://github.com/LANEING-AVIATION/LANEING-AVIATION/blob/main/M1.png)
+
 * **CATIA V5** & **SolidWorks**
     * **Certifications:** CATIA V5 Expert Level Part Design, SOLIDWORKS CAD Design Professional
 * **Core Skills:** Part Design, Assembly Design, Generative Shape Design
@@ -35,9 +39,11 @@
 ## 🏆 Featured Projects & Awards
 
 ### 1. Quadcopter UAV for Reconnaissance and Rescue
+![Introduction](https://github.com/LANEING-AVIATION/LANEING-AVIATION/blob/main/M3.png)
 > Awarded the **First Prize (Highest National Honor)** in the Multi-Rotor UAV Reconnaissance and Rescue category at the 2025 China University Aircraft Design Competition (Top 7%).
 
-### 2. ANGEL 3 Enhanced Three-Dimensional Application
+### 2. ANGEL 3 Enhanced Three-Dimensional Application (https://github.com/LANEING-AVIATION/ANGEL)
+![Introduction](https://github.com/LANEING-AVIATION/LANEING-AVIATION/blob/main/M2.png)
 > A program to automatically unfold 3D models into 2D plane diagrams for physical aircraft model production.
 > **Achievement:** Obtained a Computer Software Copyright Registration Certificate (Jan. 2024).
 
