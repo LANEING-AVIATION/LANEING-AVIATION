@@ -10,8 +10,12 @@
 * **First MATLAB Student Ambassador at CQU (2026)**
 
 * **President & Lab Administrator** | Aircraft Model Association of Chongqing University (Oct. 2024–Oct. 2025)
+  ![Introduction](https://github.com/LANEING-AVIATION/LANEING-AVIATION/blob/main/Team20250913.jpg)
+    * [Team CQUFLY Introduction (English, Sept.2025)](https://github.com/LANEING-AVIATION/CUADC/blob/main/CQUFLY.pdf)
+    * [Team CQUFLY Portfolio (Chinese Simplified, Oct.2024)](https://www.bilibili.com/video/BV1HAmFYZEuL)
     * *Honored as the Outstanding Individual for Student Organizations for the 2024-2025 academic year.*
 * **Chief Instructor** | Mechanical Drafting Association of Chongqing University (Sep. 2024–Sep. 2025)
+    * [Two hours of proficiency in SolidWorks (Chinese Simplified)](https://www.bilibili.com/video/BV1Ax99YPExH)
     * *Served as Lead Instructor for SolidWorks CAD skills training for over 100 students.*
 
 <hr>
@@ -38,11 +42,11 @@
 
 ## 🏆 Featured Projects & Awards
 
-### 1. Quadcopter UAV for Reconnaissance and Rescue
+### 1. Quadcopter UAV for Reconnaissance and Rescue (https://github.com/LANEING-AVIATION/CUADC)
 ![Introduction](https://github.com/LANEING-AVIATION/LANEING-AVIATION/blob/main/M3.png)
 > Awarded the **First Prize (Highest National Honor)** in the Multi-Rotor UAV Reconnaissance and Rescue category at the 2025 China University Aircraft Design Competition (Top 7%).
 
-### 2. ANGEL 3 Enhanced Three-Dimensional Application (https://github.com/LANEING-AVIATION/ANGEL)
+### 2. ANGEL 3 Papercraft Design Automation (https://github.com/LANEING-AVIATION/ANGEL)
 ![Introduction](https://github.com/LANEING-AVIATION/LANEING-AVIATION/blob/main/M2.jpg)
 > A program to automatically unfold 3D models into 2D plane diagrams for physical aircraft model production.
 > **Achievement:** Obtained a Computer Software Copyright Registration Certificate (Jan. 2024).
