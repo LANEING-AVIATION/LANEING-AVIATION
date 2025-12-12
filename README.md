@@ -26,7 +26,7 @@
 
 ### 📐 Computer-Aided Engineering (CAX)
 
-![Intro](https://github.com/LANEING-AVIATION/LANEING-AVIATION/blob/main/M1.png)
+![Introduction](https://github.com/LANEING-AVIATION/LANEING-AVIATION/blob/main/M1.jpg)
 
 * **CATIA V5** & **SolidWorks**
     * **Certifications:** CATIA V5 Expert Level Part Design, SOLIDWORKS CAD Design Professional
@@ -43,7 +43,7 @@
 > Awarded the **First Prize (Highest National Honor)** in the Multi-Rotor UAV Reconnaissance and Rescue category at the 2025 China University Aircraft Design Competition (Top 7%).
 
 ### 2. ANGEL 3 Enhanced Three-Dimensional Application (https://github.com/LANEING-AVIATION/ANGEL)
-![Introduction](https://github.com/LANEING-AVIATION/LANEING-AVIATION/blob/main/M2.png)
+![Introduction](https://github.com/LANEING-AVIATION/LANEING-AVIATION/blob/main/M2.jpg)
 > A program to automatically unfold 3D models into 2D plane diagrams for physical aircraft model production.
 > **Achievement:** Obtained a Computer Software Copyright Registration Certificate (Jan. 2024).
 
