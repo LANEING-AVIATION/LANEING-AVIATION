@@ -26,7 +26,7 @@
 
 ### 📐 Computer-Aided Engineering (CAX)
 
-![Introduction](https://github.com/LANEING-AVIATION/LANEING-AVIATION/blob/main/M1.png)
+![Intro](https://github.com/LANEING-AVIATION/LANEING-AVIATION/blob/main/M1.png)
 
 * **CATIA V5** & **SolidWorks**
     * **Certifications:** CATIA V5 Expert Level Part Design, SOLIDWORKS CAD Design Professional
