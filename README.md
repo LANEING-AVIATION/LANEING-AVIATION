@@ -17,6 +17,8 @@
 * **Chief Instructor** | Mechanical Drafting Association of Chongqing University (Sep. 2024–Sep. 2025)
     * [Two hours of proficiency in SolidWorks (Chinese Simplified)](https://www.bilibili.com/video/BV1Ax99YPExH)
     * *Served as Lead Instructor for SolidWorks CAD skills training for over 100 students.*
+ 
+* **Assistant for the operation and maintenance of the campus-wide 3DEXPERIENCE platform (2026)**
 
 <hr>
 
